@@ -1,0 +1,10 @@
+[user]
+	email = 58268176+sinanbayindir@users.noreply.github.com
+	name = Sinan Bayindir
+[init]
+	defaultBranch = main
+[color]
+	ui = true
+[core]
+	editor = nano
+	excludesfiles = ~/.gitignore
